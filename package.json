@@ -1,0 +1,24 @@
+{
+  "name": "b.m.i",
+  "version": "1.0.0",
+  "description": "A bmi calculator using java script",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogeshwararao/B.M.I.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bogeshwararao/B.M.I/issues"
+  },
+  "homepage": "https://github.com/Bogeshwararao/B.M.I#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
